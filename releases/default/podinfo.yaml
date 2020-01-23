@@ -11,7 +11,7 @@ metadata:
 spec:
   releaseName: piraeus-release
   chart:
-    git: git@github.com:w00jay/helm-operator-get-started
+    git: git@github.com:w00jay/flux-helm-piraeus
     path: charts/piraeus
     ref: master
   values:
